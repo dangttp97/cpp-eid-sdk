@@ -1,0 +1,4 @@
+third_parties/build/
+build/
+.vscode/
+build.curlsha256
